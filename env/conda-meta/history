@@ -102,3 +102,8 @@
 +defaults/osx-64::zeromq-4.3.1-h0a44026_3
 +defaults/osx-64::zlib-1.2.11-h1de35cc_3
 # update specs: ['pandas', 'numpy', 'scikit-learn', 'matplotlib', 'jupyter']
+==> 2020-05-27 11:54:48 <==
+# cmd: /opt/anaconda3/bin/conda install seaborn
+# conda version: 4.8.3
++defaults/noarch::seaborn-0.10.1-py_0
+# update specs: ['seaborn']
